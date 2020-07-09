@@ -1,5 +1,5 @@
 # Top 10 Publications App
-The project is written in Python and has been tested from 3.7.3 version. It uses trending news API “executium” to scrape data with published articles and price changes among the several currency pairs.
+The project is written in Python and has been tested from 3.7.3 version. It uses trending news API “executium” to scrape data with published articles and price changes among several currency pairs.
 
 #### Purpose of this project
 * Help traders and trading journalists in their discovering of correlations between publications.
