@@ -16,5 +16,8 @@ pip install pycurl certifi pandas plotly dash
 ```
 * Then use git to clone executium repository to your local machine.
 ```
+git clone https://github.com/executium/trending-historical-cryptocurrency-news.git executium
 ```
 * Run the app with `python app.py` and visit http://127.0.0.1:8050/ in your web browser.
+
+#### External link to already built application
