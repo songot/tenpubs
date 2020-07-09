@@ -1,4 +1,4 @@
-# Installation for Python Cryptocurrency Trending News
+# Top 10 Publications Project
 The following `readme` is intended to provide direction about how you use the related files to access executium's trending news service. This python source code will work from `Python 2.7.17` and above.
 
 #### Direction
