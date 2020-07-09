@@ -1,4 +1,4 @@
-# Top 10 Publications Project
+# Top 10 Publications App
 The project is written in Python and has been tested from 3.7.3 version. It uses trending news API “executium” to scrape data with articles published on the selected date and price change among the existing pairs.
 
 #### Purpose of this project
