@@ -1,5 +1,5 @@
 # Top 10 Publications Project
-The following `readme` is intended to provide direction about how you use the related files to access executium's trending news service. This python source code will work from `Python 2.7.17` and above.
+The project is written in Python and has been tested from 3.7.3 version. It uses trending news API “executium” to scrape data with articles published on the selected date and price change among the existing pairs.
 
 #### Direction
 
