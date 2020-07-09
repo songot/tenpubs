@@ -14,7 +14,7 @@ The program should present a scatter chart and a list with ten ranked publicatio
 ```
 pip install pycurl certifi pandas plotly dash
 ```
-* Then use git to clone executium repository to your local machine.
+* Then use git to clone executium repository to your working directory.
 ```
 git clone https://github.com/executium/trending-historical-cryptocurrency-news.git executium
 ```
