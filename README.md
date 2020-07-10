@@ -21,3 +21,4 @@ git clone https://github.com/executium/trending-historical-cryptocurrency-news.g
 * Run the app with `python app.py` and visit http://127.0.0.1:8050/ in your web browser.
 
 #### External link to already built application
+https://top-tenpub-app.herokuapp.com/
