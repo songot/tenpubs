@@ -155,7 +155,7 @@ def pub_list(core):
                 fill_color='rgba(220, 224, 222, 0.8)', align='center'),
             cells=dict(
                 values=[tab['Publication'], tab['Number of articles'],
-                    ["{:.2e}".format(x) for x in tab['Change']], 
+                    round(tab['Change'],8), 
                     round(tab['Price Impact, %'],2)],
                 line_color='lightgrey',
                 fill_color='rgba(255, 255, 255, 0.8)',
